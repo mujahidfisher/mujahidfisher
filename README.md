@@ -19,7 +19,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-38618C?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite3](https://img.shields.io/badge/SQLite-FFFFFF?style=for-the-badge&logo=sqlite&logoColor=38618C)
-![AppScript](https://img.shields.io/badge/AppScript-F05032?style=for-the-badge&logo=appscript&logoColor=F0DB4F)
+![AppScript](https://img.shields.io/badge/AppScript-google?style=for-the-badge&logo=appsscript&logoColor=F0DB4F)
 ![MySQL](https://img.shields.io/badge/MySQL-F05032?style=for-the-badge&logo=mysql&logoColor=F29111)
 ![MySQL](https://img.shields.io/badge/MySQL-F05032?style=for-the-badge&logo=mysql&logoColor=F29111)
 ![WordPress](https://img.shields.io/badge/WordPress-FFFFFF?style=for-the-badge&logo=wordpress&logoColor=38618C)
