@@ -11,14 +11,20 @@
 * ❤️ I love Anime & Games
 
 ## Tech Stack
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-F05032?style=for-the-badge&logo=mysql&logoColor=F29111)
+![SQLite3](https://img.shields.io/badge/SQLite-F29111?style=for-the-badge&logo=sqlite&logoColor=F05032)
+![WordPress](https://img.shields.io/badge/WordPress-38618C?style=for-the-badge&logo=wordpress&logoColor=F05032)
+![AppScript](https://img.shields.io/badge/AppScript-F05032?style=for-the-badge&logo=appscript&logoColor=F0DB4F)
+![MySQL](https://img.shields.io/badge/MySQL-F05032?style=for-the-badge&logo=mysql&logoColor=F29111)
+![MySQL](https://img.shields.io/badge/MySQL-F05032?style=for-the-badge&logo=mysql&logoColor=F29111)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=F29111)
+
 
 
