@@ -6,7 +6,7 @@
 * 😎 Pronouns: He/Him.
 * 🔭 I’m currently working on upskilling myself.
 * 🌱 I'm currently learning different languages to broaden my horizons.
-* 🤝 I’m looking to collaborate on anime based project.
+* 🤝 I’m looking to collaborate on Anime based side project.
 * 📫 How to reach me: https://dev-mujahidfisher-portfolio.pantheonsite.io/
 * ❤️ I love Anime & Games
 
@@ -19,10 +19,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-38618C?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite3](https://img.shields.io/badge/SQLite-FFFFFF?style=for-the-badge&logo=sqlite&logoColor=38618C)
-![WordPress](https://img.shields.io/badge/WordPress-38618C?style=for-the-badge&logo=wordpress&logoColor=F05032)
 ![AppScript](https://img.shields.io/badge/AppScript-F05032?style=for-the-badge&logo=appscript&logoColor=F0DB4F)
 ![MySQL](https://img.shields.io/badge/MySQL-F05032?style=for-the-badge&logo=mysql&logoColor=F29111)
 ![MySQL](https://img.shields.io/badge/MySQL-F05032?style=for-the-badge&logo=mysql&logoColor=F29111)
+![WordPress](https://img.shields.io/badge/WordPress-FFFFFF?style=for-the-badge&logo=wordpress&logoColor=38618C)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
