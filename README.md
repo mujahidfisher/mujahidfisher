@@ -16,17 +16,17 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Vuejs](https://img.shields.io/badge/Vue.js-3C873A?style=for-the-badge&logo=vue&logoColor=3C873A)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-38618C?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite3](https://img.shields.io/badge/SQLite-FFFFFF?style=for-the-badge&logo=sqlite&logoColor=38618C)
-![AppScript](https://img.shields.io/badge/AppScript-google?style=for-the-badge&logo=appsscript&logoColor=F0DB4F)
-![Vuejs](https://img.shields.io/badge/Vue.js-3C873A?style=for-the-badge&logo=vue&logoColor=3C873A)
 ![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-1F51FF?style=for-the-badge&logo=canva&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-FFFFFF?style=for-the-badge&logo=wordpress&logoColor=38618C)
+![AppScript](https://img.shields.io/badge/AppScript-google?style=for-the-badge&logo=appsscript&logoColor=F0DB4F)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-F05032?style=for-the-badge&logo=seo&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-F05032?style=for-the-badge&logo=canva&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-white?style=for-the-badge&logo=seo&logoColor=black)
 
 
 
