@@ -25,6 +25,8 @@
 ![WordPress](https://img.shields.io/badge/WordPress-FFFFFF?style=for-the-badge&logo=wordpress&logoColor=38618C)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-F05032?style=for-the-badge&logo=seo&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-F05032?style=for-the-badge&logo=canva&logoColor=white)
 
 
 
