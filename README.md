@@ -23,7 +23,7 @@
 ![Vuejs](https://img.shields.io/badge/Vue.js-3C873A?style=for-the-badge&logo=vue&logoColor=3C873A)
 ![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=black)
 ![WordPress](https://img.shields.io/badge/WordPress-FFFFFF?style=for-the-badge&logo=wordpress&logoColor=38618C)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 
